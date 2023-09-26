@@ -1,0 +1,21 @@
+Descargar e instalar Git
+git init
+git config-global user.name “UsuariodeGitHub”
+git config-global user.email “emaildeGitHub”
+git config –global -e
+git add. (Va a pasar todos los archivos al area de ensayo)
+
+git status (Veo el estado de los archivos)
+git branch -M main 
+git commit -m "Primer Copia" Elijo cualquier nombre 
+git push -u origin main
+git remote add origin https://github.com/DanielFlores/blablabla (el nombre que le hayamos dado en github.com)
+
+
+
+Para cuando haga cambios en el proyecto:
+git add . (para pasar los archivos a mi area de ensayo)
+git commit -m (Le cambio la descripcion, cambios al 14 de Dic a las 19hs)
+git push ( con solo decirle push ya sabe que tiene que subir)
+
+Y cuando vamos a Verificar en Github.com le damos Refresh a la pagina para que actualice
